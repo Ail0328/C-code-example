@@ -13,5 +13,6 @@ int main()
         cout << *(p+i) << " ";
     }
     delete[] p;
+    p = nullptr;
     return 0;
 }
