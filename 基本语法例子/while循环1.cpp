@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 int main()
 //我们要计算1到100的求和
 {
@@ -12,3 +12,4 @@ int main()
     }
     cout << "1到100的合为:" << a << endl; 
     return 0;
+}
